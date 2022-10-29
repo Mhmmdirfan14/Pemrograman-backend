@@ -6,4 +6,4 @@ Rombel : TI02
 NIM : 0110221060
 
 Tugas & praktikum pemrograman backend
-DOsen : Edo Riansyah
+Dosen : Edo Riansyah
